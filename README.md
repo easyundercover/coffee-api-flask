@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Coffee API
